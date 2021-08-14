@@ -1,3 +1,3 @@
 # Desafios
 
-Neste repositório vou estar colocando desafios de Ciência de Dados que participei
+Neste repositório vou colocar desafios de Ciência de Dados que participei
